@@ -262,9 +262,6 @@
                 <div class="col-md-4 col-sm-6 mb-4">
                      <iframe  src="imagenes/video.mp4" title="Docentes" allowfullscreen width="100%" height="440" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
-                <div class="col-md-4 col-sm-6 mb-4">
-                     <iframe  src="imagenes/video2.mp4" title="Docentes" allowfullscreen width="100%" height="440" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                </div>
             </div>
         </div>
     </section>
