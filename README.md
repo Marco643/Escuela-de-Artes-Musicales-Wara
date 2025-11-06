@@ -1,4 +1,4 @@
-# Escuela-de-Artes-Musicales-Wara
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -232,8 +232,7 @@
                 </div>
             </div>
         </div>
-        </div>
-    </section>
+    </div>
     <section id="galeria" class="py-5">
         <div class="container">
             <h2 class="text-center section-title">Galería</h2>
@@ -550,5 +549,3 @@
             observer.observe(img);
         });
     </script>
-</body>
-</html>
